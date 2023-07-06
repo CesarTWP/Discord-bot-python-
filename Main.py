@@ -98,7 +98,7 @@ bot.run("YOUR TOKEN HERE")    #Coloca tu token aquí/Put your token here
 
 
 
-
+#En caso de tener problemas borra este mensaje y la siguiente ilustración.//In case of problems, delete this message and the following illustration
 #
 #░░░░░░░░██████████████████
 ##░██░░░░░░░░░░░░░░░░░░░░░░░░░░██
